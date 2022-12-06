@@ -10,8 +10,8 @@
 #include "ESPAsyncWebServer.h"
 
 
-const char* ssid = "FRITZ!Box 7590 CT";
-const char* password = "47280159636675013414";
+const char* ssid = "SSID_NAME";
+const char* password = "WIFI_PASSWORD";
 
 
 AsyncWebServer server(80);
